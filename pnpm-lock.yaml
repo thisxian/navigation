@@ -52,7 +52,7 @@ importers:
         specifier: ^3.3.2
         version: 3.4.17
       typescript:
-        specifier: ^5.0.2
+        specifier: ^5.8.2
         version: 5.8.2
       vite:
         specifier: ^4.3.2
